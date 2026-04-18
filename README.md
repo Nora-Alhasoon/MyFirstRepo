@@ -8,4 +8,5 @@ This project was created as part of the Git & GitHub Lab.
 
 ## Purpose
 To learn how to:
-- Create a GitHub repository
+- Create a GitHub repository 
+<p>This is a new change</p>
