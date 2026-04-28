@@ -10,3 +10,4 @@ This project was created as part of the Git & GitHub Lab.
 To learn how to:
 - Create a GitHub repository 
 <p>This is a new change</p>
+dified from GitHub website
